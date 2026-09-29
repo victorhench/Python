@@ -1,4 +1,4 @@
-#um programa que calcula o dobro, o triplo e a raiz quadrada de um numero
+
 
 print("="*20)
 

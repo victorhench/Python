@@ -1,4 +1,4 @@
-#o pgorama pede um valor em metros e converte para centimetros e milimetros
+
 
 m = float(input("Digite uma quantidade em metros: "))
 

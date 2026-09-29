@@ -1,4 +1,4 @@
-#o programa ira pegar daus notas de um aluno e calcular sua media no semestre
+
 
 print("="*20)
 print("Seja bem vindo!")

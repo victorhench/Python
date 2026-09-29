@@ -1,4 +1,4 @@
-#o programa mostra quantos dolares a pesoa pode comprar
+
 
 reais = float(input("Quanto de dinheiro em reais você tem?: "))
 

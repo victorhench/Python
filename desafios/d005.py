@@ -1,4 +1,4 @@
-#o programa le um numero inteiro qualquer e mostra sua tabuada
+
 
 n = int(input("Qual tabuada deseja ver?: "))
 print(n,"X 1 =", n * 1)

@@ -1,4 +1,4 @@
-#aumento de 15% no salario
+
 
 sal = float(input("Qual seu salário?: R$"))
 

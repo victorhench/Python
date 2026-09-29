@@ -1,4 +1,3 @@
-#pega um preço e mosra ele em desconto
 
 preco = float(input("Quanto custa esse produto?: R$"))
 
